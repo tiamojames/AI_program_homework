@@ -1,0 +1,2 @@
+我发现了一篇高质量的实训项目，使用免费算力即可一键运行，还能额外获取8小时免费GPU运行时长，快来Fork一下体验吧。
+AI_homework：https://aistudio.baidu.com/projectdetail/7349594?contributionType=1&sUid=3275021&shared=1&ts=1703939547643

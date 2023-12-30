@@ -1,0 +1,7 @@
+from paddleseg.models import UNet,UNetPlusPlus,UNet3Plus
+
+unetpp_model = UNetPlusPlus(num_classes=2)
+unet3p_model = UNet3Plus(num_classes=2)
+u2net_model = U2Net(num_classes=2)
+seunet_model = SEAttention_UNet()
+cbamunet_model = CBAM_UNet()
